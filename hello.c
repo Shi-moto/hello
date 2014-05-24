@@ -1,10 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
-int i;
 {
-  for( i = 0; i < 10; i++){;
-Printf("Hello World/n");
-}
+  int i;
+  for( i = 0; i < 10; i++){
+    Printf("Hello World/n");
+   }
+
 return 0;
 }
